@@ -2,7 +2,7 @@
 
 ### CodeLab 02 - Methoden/Parameter/return
 
-- Legen Sie in Eclipse ein Java-Projekt an.
+- Legen Sie in VS Code ein Java-Projekt an.
 - Erzeugen Sie zwei Klassen : Mitarbeiter & App
 - Legen Sie in App eine main()-Methode an
 - Legen Sie in Mitarbeiter Felder an für: Name/Vorname/Funktion/Eintrittsjahr
